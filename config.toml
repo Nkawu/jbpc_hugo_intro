@@ -1,4 +1,4 @@
-baseURL                          = "https://nkawu.github.io/jbpc_hugo_intro/"   # Your domain name. Must end with "/"
+baseURL                          = "https://julianbikepackchallenge.com/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
