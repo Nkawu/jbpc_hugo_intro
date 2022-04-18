@@ -1,9 +1,7 @@
 ---
-title: "FKT"
+title: "Fastest Known Times"
 weight: 55
 ---
-
-## FASTEST KNOWN TIMES
 
 ### THE BFL
 |Rider(s)|Date|Time|
