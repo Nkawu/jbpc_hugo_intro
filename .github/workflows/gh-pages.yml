@@ -26,15 +26,8 @@ jobs:
         with:
           node-version: '14'
 
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - run: npm ci
+      - name: Compile
+        run: npm i -g postcss postcss-cli autoprefixer
 
       - name: Build
         run: hugo --minify
