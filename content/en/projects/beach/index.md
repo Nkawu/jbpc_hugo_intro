@@ -26,3 +26,5 @@ There is open camping in the [Cleveland National Forest](https://www.fs.usda.gov
 
 #### WEATHER
 This loop can be done year round. In the winter the higher elevations may have snow. In the summer it can get hot at the lower elevations before you get to the coast.
+
+{{< rwgps "https://ridewithgps.com/embeds?type=route&id=31415009&sampleGraph=true&privacyCode=CkfzowrQGmVRmeBM" >}}

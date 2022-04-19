@@ -33,3 +33,5 @@ Abundant primitive camping options everywhere in the Anza-Borrego Desert State P
 
 #### WEATHER
 Ideal time to do this loop is in the fall or spring. In the winter the higher elevations may have snow. In the summer it can get hot at the lower elevations.
+
+{{< rwgps "https://ridewithgps.com/embeds?type=route&id=31418791&sampleGraph=true&privacyCode=W9k9trIdvDoosk57" >}}

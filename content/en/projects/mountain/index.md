@@ -19,3 +19,6 @@ Camping in Cuyamaca Rancho State Park at Green Valley, Granite Springs Primitive
 
 #### WEATHER
 Ideal time to do this loop is in the fall or spring. In the winter the higher elevations may have snow. In the summer it can get hot at the lower elevations.
+
+
+{{< rwgps "https://rwgps-embeds.com/embeds?type=route&id=25702278&sampleGraph=true&privacyCode=EXhJj5DB8ezR0tZk" >}}
