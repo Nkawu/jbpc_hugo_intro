@@ -4,6 +4,23 @@ DefaultContentLanguage           = "en"                    # Default language fo
 # disqusshortname                  = ""                     # https://gohugo.io/content-management/comments
 googleAnalytics                  = "G-CHMDSB0PDG"          # https://gohugo.io/templates/internal/#google-analytics
 
+[privacy]
+    [privacy.disqus]
+        disable = true
+    [privacy.googleAnalytics]
+        anonymizeIP = false
+        disable = false
+        respectDoNotTrack = false
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = true
+    [privacy.twitter]
+        disable = true
+    [privacy.vimeo]
+        disable = true
+    [privacy.youtube]
+        disable = true
+
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
     favicon                      = "/img/fav.ico"          # Path to favicon file
@@ -119,5 +136,5 @@ googleAnalytics                  = "G-CHMDSB0PDG"          # https://gohugo.io/t
         weight           = 0
         title            = "JBPC"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
+            description  = "Julian Bikepack Challenge"   # Max 160 characters show in search results
+            footerText   = "2022 JBPC"                      # Text to override default footer text (markdown allowed)

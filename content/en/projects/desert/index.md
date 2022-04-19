@@ -20,5 +20,4 @@ Abundant primitive camping options everywhere in the Anza-Borrego Desert State P
 #### WEATHER
 This loop can be done in the fall, winter and spring. In the summer it can get dangerously hot in the desert.
 
-
 {{< rwgps "https://ridewithgps.com/embeds?type=route&id=31415013&sampleGraph=true&privacyCode=s79TLW2aHOIBID4N" >}}
